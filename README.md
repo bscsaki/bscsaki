@@ -1,6 +1,7 @@
 ## Hi there 👋
 # My name is Sofia, I am a Computer Science student! 
 # I like building and creating things with code and metals. 
+languages: Python, C++, C#, Bash
 <!--
 **bscsaki/bscsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
