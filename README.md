@@ -4,7 +4,7 @@
 languages: Python, C++, C#, Bash
 <!--
 **bscsaki/bscsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Image](https://github.com/user-attachments/assets/e077dc1d-d5bc-4b8a-8530-9191159d889a)
+![Image](https://github.com/user-attachments/assets/e077dc1d-d5bc-4b8a-8530-9191159d889a.gif)
 
 
 
