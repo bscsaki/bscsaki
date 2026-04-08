@@ -5,6 +5,10 @@ languages: Python, C++, C#, Bash
 <!--
 **bscsaki/bscsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+  <img src="[https://media.giphy.com/media/your-gif-id/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDljYnkyanlnbzJmMjRtajM2cHE1azZxNzJjbXZkZmF3em1pbDhxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif)" width="300px">
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
