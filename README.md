@@ -5,9 +5,9 @@ languages: Python, C++, C#, Bash
 <!--
 **bscsaki/bscsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Coding Computer Science GIF by XRay Tech](https://github.com/user-attachments/assets/9202109c-5416-4a3b-81ad-8680fb956079)
+<img src="https://github.com/user-attachments/assets/9202109c-5416-4a3b-81ad-8680fb956079" alt="Coding Computer Science GIF" width="100%">
 
-</p>
+
 
 Here are some ideas to get you started:
 
