@@ -1,21 +1,33 @@
 ## Hi there 👋
-# My name is Sofia, I am a Computer Science student! 
+# My name is Sofia! 
 # I like building and creating things with code and metals. 
-languages: Python, C++, C#, Bash
-<!--
-**bscsaki/bscsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Image](https://github.com/user-attachments/assets/e077dc1d-d5bc-4b8a-8530-9191159d889a.gif)
 
+- I’m currently working on **(https://sofiabatala.com)**
 
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="sofia@sofiabatala.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/batalasofia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+ 
+ ## 🛠️ Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,ts,html,css,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,spring,wordpress,threejs,vite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,pycharm,linux,kali" />
+  <img src="https://skillicons.dev/icons?i=blender,figma,postman" />
+</p>
+
+<hr>
+  </a>
+
+</div>
+
+<hr>
