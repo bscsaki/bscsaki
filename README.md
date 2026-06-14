@@ -2,7 +2,7 @@
 # My name is Sofia! 
 # I like building and creating things with code and metals. 
 
-- I’m currently working on **(https://sofiabatala.com)**
+- I’m currently working on **[My portfolio](https://sofiabatala.com)**
 
 <br>
 
@@ -18,11 +18,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,ts,html,css,bash,powershell" />
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,spring,wordpress,threejs,vite" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,js,html,css,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,wordpress" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql" />
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,pycharm,linux,kali" />
-  <img src="https://skillicons.dev/icons?i=blender,figma,postman" />
+ 
 </p>
 
 <hr>
