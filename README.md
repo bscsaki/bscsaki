@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,html,css,bash,powershell" />
-  <img src="https://skillicons.dev/icons?i=fastapi,wordpress" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,html,css,bash,powershell" />
+
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql" />
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,visualstudio,pycharm,linux,kali" />
  
